@@ -1,7 +1,7 @@
 {
-  "name": "server",
+  "name": "serverless-graphql-typescript",
   "version": "1.0.0",
-  "description": "",
+  "description": "A starter project for serverless GraphQL endpoints written in TypeScript",
   "main": "graphql.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
